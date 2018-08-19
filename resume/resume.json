@@ -1,0 +1,43 @@
+{
+"Name" : "Manav Shah",
+
+"DOB" : "9 September, 1999",
+
+"Gender": "Male",
+
+"Location": "Mumbai, India",
+
+"Designation": "Web Developer",
+
+"Github": "Github.com/ma9shah",
+
+"Email": "ma9shah@gmail.com",
+
+"Objective":"To be a part of Unicode as a Web Developer, become a better programmer and to learn the spirit of team work",
+
+"Skills": [	"HTML, CSS",	"Bootstrap 4", "MaterializeCSS",	"JavaScript", "Python", "C"],
+
+"Activities" : [
+	"Attended a five day workshop on Social Media Marketing",
+	"Won 3rd Prize in Business Plan Event, DJSCE 2018",
+	"Participated in Code Shastra round zero",
+  "Outstanding Delegate Award at DG-MUN 2014"],
+
+  "Education" :
+    [
+      { "Name": "Dwarkadas J. Sanghvi College of Engineering (2021)",
+        "Details":["Bachelor of Engineering (Computers)",
+                  "Semester II: 8.81 CGPA",
+                  "Semester I: 8.37 CGPA"]
+      },
+
+      { "Name": "Pace Junior Science College (2017)",
+
+        "Details": ["Percentage in HSC Boards: 85"]
+      },
+
+      { "Name":"D. G. Khetan International School (2015)",
+        "Details": ["Percentage in IGCSE Boards: 90"]
+      }
+    ]
+}

@@ -1,0 +1,109 @@
+.mainbg{
+  background-image: url('bg.jpg');
+  height:300px;
+  object-fit: fill;
+}
+
+.hire-btn{
+border: 0.5px 0.5px;
+border-color: #26c6da;
+border-style: solid;
+}
+
+@media screen and (min-width: 100px) {
+  .flat {
+        margin: auto;
+        padding-left: auto;
+        max-width: 400px;
+        min-width: 250px;
+        border: 3px solid #26c6da;
+        height: 50px;
+        font-weight: bold;
+          }
+}
+
+  @media screen and (min-width: 1000px) {
+    .flat {
+          min-width: 350px;
+          margin: auto;
+          padding-left: auto;
+          max-width: 400px;
+          min-width: 350px;
+          border: 3px solid #26c6da;
+          height: 50px;
+          font-weight: bold;
+         }
+}
+
+
+
+/*For Education collapsible*/
+
+@media screen and (min-width: 100px) {
+  .size {
+        width: 120%;
+        margin: auto;
+        padding-left: auto
+          }
+}
+
+@media screen and (min-width: 1000px) {
+  .size {
+        width: 150%;
+        margin: auto;
+        padding-left: auto;
+       }
+}
+.lb {
+position: relative;
+transform: translateY(+10%);
+height: 70px;
+
+}
+
+#Activities {
+list-style: none;
+font-weight: bold;
+}
+
+#Activities li::before {
+color: #26c6dd;
+content: "\2022";
+/* Unicode of character to precede the list item */
+font-size: 20px;
+padding-right: 1.1225em;
+position: relative;
+top: .15em;
+/* use em or % */
+
+}
+.fa{
+    margin: 10px;
+  }
+.lh2 {
+  line-height: 2;
+}
+
+.nav-wrapper{
+  background-image: url('crop-dark.jpg');
+  width: 100%;
+}
+
+.brand-logo{
+  font-family: 'lobster';
+  padding-left: 20px;
+}
+
+.b{
+font-weight: bold;
+
+}
+
+.wt-brdr{
+  border-color: #fff;
+  background-image: url(crop-dark.jpg);
+}
+
+.rp15{
+  padding-right: 15px;
+}
