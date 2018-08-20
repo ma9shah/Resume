@@ -1,10 +1,6 @@
 # Resume
 
 * A Single page webpage that is mobile responsive 
-
-* Navbar:
-    * Exandable (from the left side)
-    * Fixed
     
 * Data: Imported from 'resume.JSON' file with the help of XMLHttphRequest (AJAX) and using Javascript to insert into required HTML tags
 
