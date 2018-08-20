@@ -69,12 +69,12 @@ font-weight: bold;
 #Activities li::before {
 color: #26c6dd;
 content: "\2022";
-/* Unicode of character to precede the list item */
+/* Unicode of bullet */
 font-size: 20px;
-padding-right: 1.1225em;
+padding-right: .5em;
 position: relative;
 top: .15em;
-/* use em or % */
+
 
 }
 .fa{
@@ -105,5 +105,12 @@ font-weight: bold;
 }
 
 .rp15{
-  padding-right: 15px;
+}
+
+.flat{
+cursor: default; 
+}
+
+footer{
+min-height: 50px;
 }
